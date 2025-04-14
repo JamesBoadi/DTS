@@ -2,6 +2,8 @@
 
 To run TasksApi, navigate to main directory `cd backend`
 
+Run `dotnet build Tasks.csproj`
+
 Run `dotnet run Tasks.csproj`
 
 The api will be running on port 5282 from the following url: `http://localhost:5282`
